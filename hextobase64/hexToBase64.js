@@ -17,7 +17,7 @@ const base64Maping = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O
 class HexToBase64 {
 
   /**
-   * Converts the hex string provided to the program and converts it to a binary encoded string.
+   * Converts the hex string provided to the program to a binary encoded string.
    * @param {String} hexInput A hex encoded string where each sequence of 2 characters represent a 
    * single value
    * @returns {text: string, binary: string} An object that contains two key/value pairs.  The 
